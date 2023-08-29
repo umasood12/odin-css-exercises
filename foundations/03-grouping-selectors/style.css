@@ -1,0 +1,13 @@
+.first_class {
+    color:beige;
+    background-color: black;
+}
+
+.second_class {
+    background-color: yellow;
+}
+
+.third_class {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman','sans-serif';
+}
